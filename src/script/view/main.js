@@ -19,6 +19,7 @@ const main = () => {
           <div class="club-info">
           <h2>  ${name}  </h2>
           <p>  ${description}  </p> 
+
           </div>`
             clubListElement.appendChild(clubElement)
         })
